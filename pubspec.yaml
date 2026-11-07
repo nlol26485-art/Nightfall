@@ -1,0 +1,21 @@
+name: nightfall
+description: Nightfall - a dark neumorphic music player with an interactive vinyl disc.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.6.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  just_audio: ^0.10.4
+  file_picker: ^10.1.9
+  google_fonts: ^6.2.1
+  path_provider: ^2.1.5
+  permission_handler: ^12.0.1
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/sfx/
