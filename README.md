@@ -4,7 +4,13 @@ A dark, neumorphic music player for Android, built with Flutter. Its centrepiece
 
 ## Download
 
-Get the latest **`nightfall.apk`** from the [Releases page](../../releases/latest), open it on your Android phone, and allow *install unknown apps* when asked.
+### [⬇ Download Nightfall for Android (APK)](https://github.com/nlol26485-art/Nightfall/releases/latest/download/nightfall.apk)
+
+1. Open the link above on your Android phone (or download it on a computer and copy the file over).
+2. Open **nightfall.apk**. If Android blocks it, tap **Settings** and allow your browser or file manager to *install unknown apps*.
+3. Tap **Install**, then open **Nightfall** and allow music access so it can find your songs.
+
+Older versions and release notes are on the [Releases page](https://github.com/nlol26485-art/Nightfall/releases).
 
 ## Features
 
